@@ -1,0 +1,21 @@
+body{
+  background-color: #F6DFEB;
+}
+h1{
+  color: #03506F;
+}
+hr{
+  color: white;
+  border-width: 2px;
+}
+img{
+  height: 150px;
+  width:  150px;
+  object-fit: cover;
+  background-image: url(IMG-20210408-WA0047.jpg);
+}
+hr{
+  border-color: white;
+  width: 50%;
+
+}
